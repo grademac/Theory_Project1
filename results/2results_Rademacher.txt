@@ -1,0 +1,40 @@
+Solving Medium problem: Target: 5608, Coins: [17, 24]
+Satisfiable: [320, 7] solves the target of 5608
+Solving Medium problem: Target: 4556, Coins: [9, 16]
+Satisfiable: [492, 8] solves the target of 4556
+Solving Medium problem: Target: 9895, Coins: [13, 6]
+Satisfiable: [757, 9] solves the target of 9895
+Solving Medium problem: Target: 3626, Coins: [15, 4]
+Satisfiable: [238, 14] solves the target of 3626
+Solving Medium problem: Target: 2895, Coins: [13, 23]
+Satisfiable: [205, 10] solves the target of 2895
+Solving Medium problem: Target: 7775, Coins: [3, 13]
+Satisfiable: [2583, 2] solves the target of 7775
+Solving Medium problem: Target: 6089, Coins: [7, 19]
+Satisfiable: [859, 4] solves the target of 6089
+Solving Medium problem: Target: 4382, Coins: [9, 25]
+Satisfiable: [473, 5] solves the target of 4382
+Solving Medium problem: Target: 5353, Coins: [5, 4]
+Satisfiable: [1069, 2] solves the target of 5353
+Solving Medium problem: Target: 7090, Coins: [10, 11]
+Satisfiable: [709, 0] solves the target of 7090
+Solving Medium problem: Target: 6579, Coins: [20, 10]
+Unsatisfiable: No combination of coins can solve the target of 6579
+Solving Medium problem: Target: 2546, Coins: [20, 11]
+Satisfiable: [124, 6] solves the target of 2546
+Solving Medium problem: Target: 6511, Coins: [24, 9]
+Unsatisfiable: No combination of coins can solve the target of 6511
+Solving Medium problem: Target: 6733, Coins: [19, 19]
+Unsatisfiable: No combination of coins can solve the target of 6733
+Solving Medium problem: Target: 7938, Coins: [17, 10]
+Satisfiable: [464, 5] solves the target of 7938
+Solving Medium problem: Target: 7886, Coins: [16, 16]
+Unsatisfiable: No combination of coins can solve the target of 7886
+Solving Medium problem: Target: 5744, Coins: [2, 4]
+Satisfiable: [2872, 0] solves the target of 5744
+Solving Medium problem: Target: 9709, Coins: [22, 2]
+Unsatisfiable: No combination of coins can solve the target of 9709
+Solving Medium problem: Target: 5721, Coins: [14, 25]
+Satisfiable: [389, 11] solves the target of 5721
+Solving Medium problem: Target: 6689, Coins: [8, 17]
+Satisfiable: [834, 1] solves the target of 6689

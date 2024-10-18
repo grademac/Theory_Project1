@@ -1,0 +1,40 @@
+Solving Medium problem: Target: 2317, Coins: [14]
+Unsatisfiable: No combination of coins can solve the target of 2317
+Solving Medium problem: Target: 8320, Coins: [7]
+Unsatisfiable: No combination of coins can solve the target of 8320
+Solving Medium problem: Target: 6837, Coins: [3]
+Satisfiable: [2279] solves the target of 6837
+Solving Medium problem: Target: 4737, Coins: [8]
+Unsatisfiable: No combination of coins can solve the target of 4737
+Solving Medium problem: Target: 2215, Coins: [20]
+Unsatisfiable: No combination of coins can solve the target of 2215
+Solving Medium problem: Target: 6305, Coins: [22]
+Unsatisfiable: No combination of coins can solve the target of 6305
+Solving Medium problem: Target: 6854, Coins: [21]
+Unsatisfiable: No combination of coins can solve the target of 6854
+Solving Medium problem: Target: 7889, Coins: [20]
+Unsatisfiable: No combination of coins can solve the target of 7889
+Solving Medium problem: Target: 5266, Coins: [6]
+Unsatisfiable: No combination of coins can solve the target of 5266
+Solving Medium problem: Target: 6242, Coins: [1]
+Satisfiable: [6242] solves the target of 6242
+Solving Medium problem: Target: 2890, Coins: [8]
+Unsatisfiable: No combination of coins can solve the target of 2890
+Solving Medium problem: Target: 6020, Coins: [20]
+Satisfiable: [301] solves the target of 6020
+Solving Medium problem: Target: 7272, Coins: [9]
+Satisfiable: [808] solves the target of 7272
+Solving Medium problem: Target: 1170, Coins: [8]
+Unsatisfiable: No combination of coins can solve the target of 1170
+Solving Medium problem: Target: 1116, Coins: [13]
+Unsatisfiable: No combination of coins can solve the target of 1116
+Solving Medium problem: Target: 5523, Coins: [19]
+Unsatisfiable: No combination of coins can solve the target of 5523
+Solving Medium problem: Target: 8731, Coins: [22]
+Unsatisfiable: No combination of coins can solve the target of 8731
+Solving Medium problem: Target: 9247, Coins: [14]
+Unsatisfiable: No combination of coins can solve the target of 9247
+Solving Medium problem: Target: 5329, Coins: [9]
+Unsatisfiable: No combination of coins can solve the target of 5329
+Solving Medium problem: Target: 9862, Coins: [8]
+Unsatisfiable: No combination of coins can solve the target of 9862
